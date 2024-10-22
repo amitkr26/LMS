@@ -1,0 +1,62 @@
+body{
+	background-color: #ffb3ec;
+}
+
+h1{ padding:10px;
+	border-radius: 20px;
+	border: 1px solid black;
+    background-color:#4d4dff;
+    text-align: center;
+    color:black;
+}
+
+ thead th{
+	padding:10px;
+	background-color:navy;
+	color:white;
+	border:3px solid black;
+}
+ tbody td{
+    padding:10px;
+	background-color:dodgerblue;
+	border:2px solid black;
+}
+
+p{
+ color:blue;
+}
+h3{
+	text-align:center;
+}
+.foter{
+	background-color: black;
+	text-align: right;
+	padding:40px;
+}
+.foter p {
+	color: white;
+}
+
+.mage{
+    height: 200px;
+  }
+.carousel-caption{
+  background-color:red;
+  opacity: 0.4;
+  color:black;
+}
+
+.colr{
+	color: white;
+}
+
+#image{
+  height:350px; 
+  width: 100%;
+}
+
+h3{
+  background-color:blue;
+  color:white;
+}
+
